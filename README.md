@@ -1,8 +1,6 @@
 # Blackjack
 
-In this exercise, you will be creating a Blackjack game. If you are unfamiliar with the rules of blackjack, please watch [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI). Note that these instructions do not implement betting; only wins/losses.
-
-You will make use of the following techniques:
+The following techniques are used with this project. It is fairly early in my coding development, but it introduced me to many foundational concepts and skills.
 * Selecting DOM elements using JavaScript
 * Adding event listeners to DOM elements
 * Creating new DOM Elements
@@ -20,7 +18,7 @@ This project comes with some HTML and some JavaScript already included. Familiar
 ## Step 2: Style the page
 Style the page to make it look more like a card table. This exercise is less about styling, so do not spend more than ___45-60 minutes___ on styling at this time. You can always revisit the styling later. Here is an example:
 
-<img width="600" alt="blackjack1" src="https://user-images.githubusercontent.com/1687902/93030784-af972e00-f5f3-11ea-8ba4-4a37a541111c.png">
+<img width="600" alt="blackjack1" src="assets/img/portfolio/1.PNG">
 
 If you would rather get straight into the interactivity, you can find an example stylesheet in the `extras` folder. Simply link to that stylesheet from the head and move on to the next step.
 
